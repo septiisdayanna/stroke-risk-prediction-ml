@@ -24,7 +24,7 @@ Stroke adalah salah satu penyebab utama kematian dan kecacatan di dunia, termasu
 - **Data processing:** pandas, NumPy
 - **Machine Learning:** scikit-learn (Naive Bayes, SVM, Random Forest, KNN, Decision Tree, GridSearchCV, MinMaxScaler, LabelEncoder)
 - **Imbalanced data handling:** imbalanced-learn (`SMOTE`, `BalancedRandomForestClassifier`)
-- **Visualisasi:** *(laporan menyebutkan bar chart, histogram, heatmap, boxplot, confusion matrix, ROC curve — [PERLU DIISI] library spesifik: matplotlib/seaborn)*
+- **Visualisasi:** *(laporan menyebutkan bar chart, histogram, heatmap, boxplot, confusion matrix, ROC curve, library spesifik: matplotlib/seaborn)*
 
 ## How It Works / Methodology
 
